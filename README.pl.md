@@ -1,6 +1,17 @@
 # Moja praca inżynierska
 [![eng](https://img.shields.io/badge/lang-eng-red.svg)](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/blob/main/README.md) <br>
 Gra z gatunku souls-like w Unreal Engine 5 stworzona przez [Bartosza Wolińskiego](https://github.com/Hikkaruu) i mojego kolegę [Dominika Rolbieckiego](https://github.com/RolbaDev) jako nasza praca inżynierska
+
+Byłem odpowiedzialny za:
+- System walki
+- Sztuczną inteligencję
+- Ekwipunek oraz przedmioty
+- Mgłę oraz portale
+- Przeciwników
+- System ognisk
+- Interfejs użytkownika
+
+
 ##### [Game presentation](https://youtu.be/NJohudFNAXY)
 
 ### Parowanie
@@ -16,6 +27,10 @@ Gracz może parować niektóre ataki
 
 ### Mgła oraz portal
 ![foggate](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/blob/main/foggate.gif)
+
+Bossowie
+
+---
 
 ### Arthoria
 ![arthoria](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/blob/main/arthoria.gif)
@@ -35,4 +50,3 @@ Gracz może parować niektóre ataki
 
 ### Ekran śmierci
 ![death](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/blob/main/death.gif)
-
