@@ -29,7 +29,6 @@ Player is able to parry selected attacks
 
 
 ## Bosses
----
 
 ### Arthoria
 ![arthoria](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/blob/main/arthoria.gif)
