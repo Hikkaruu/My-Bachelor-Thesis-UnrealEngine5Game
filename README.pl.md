@@ -30,7 +30,6 @@ Gracz może parować niektóre ataki
 
 Bossowie
 
----
 
 ### Arthoria
 ![arthoria](https://github.com/Hikkaruu/My-Bachelor-Thesis-UnrealEngine5Game/blob/main/arthoria.gif)
